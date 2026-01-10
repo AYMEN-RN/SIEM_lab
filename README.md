@@ -32,7 +32,8 @@ L’architecture repose sur :
 
 📌 Les agents communiquent avec le serveur Wazuh via les ports **1514/TCP** et **1515/TCP**.
 
-📷 Voir les schémas dans le dossier `architecture/`.
+![Architercure](architecture/architecture_diagram.png)
+
 
 ---
 
@@ -76,7 +77,7 @@ L’architecture repose sur :
 - Création d’utilisateurs et modification de groupes
 - Analyse des événements de sécurité Windows
 
-📷 Captures disponibles dans le dossier `screenshots/`.
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
